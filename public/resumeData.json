@@ -1,0 +1,156 @@
+{
+  "main": {
+    "name": "Ghayoor Ahmad",
+    "occupation": "Web developer",
+    "description": "",
+    "image": "profilepic.jpg",
+    "bio": "Web Developer with three years of hands-on experience in identifying web-based user interactions along with designing & implementing highly-responsive user interface components. Proficient in JavaScript, React, Node, API integration, translating designs & wireframes into high-quality code, and writing application interface code via JavaScript and ReactJS workflows. Experienced in WordPress (Theme & Plugin customization ), Elementor, Divi, WPBakery, WooCommerce & Payment gateway integration.",
+    "contactmessage": "DISCUSS A PROJECT OR JUST WANT TO SAY HI? MY INBOX IS OPEN FOR ALL.!",
+    "email": "ghayoorshan7@gmail.com",
+    "phone": "+971 509141213",
+    "address": {
+      "street": "Al Bateen",
+      "city": "Abu Dhabi",
+      "state": "United Arab Emirates",
+      "zip": ""
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCtY5LH5yXFt_JCCMk_eShpw",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/ghayoorshan/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ghayoor-ahmad/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/i_am_shan7/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/GhayoorShan",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "University of Management & Technology",
+        "degree": "Bachelor of Science in Software Engineering",
+        "graduated": "December 2018",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "PAPA",
+        "title": "Founder and CEO",
+        "years": "May 2019 - Present",
+        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Frontend / Design",
+        "level": "75%"
+      },
+      {
+        "name": "Backend",
+        "level": "60%"
+      },
+      {
+        "name": "Programming",
+        "level": "65%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "SportsWear Landing Page (React JS)",
+        "category": "",
+        "image": "sportswear.png",
+        "url": "https://sports-wear-32d63.web.app/"
+      },
+      {
+        "title": "Slack Clone (React JS)",
+        "category": "",
+        "image": "slackClone.png",
+        "url": "https://slack-clone-12130.web.app/"
+      },
+      {
+        "title": "Candy Crush clone (React JS)",
+        "category": "",
+        "image": "candyCrush.jpg",
+        "url": "https://candy-crush-27b6b.web.app/"
+      },
+      {
+        "title": "Zoom Clone (Node JS)",
+        "category": "In Progress",
+        "image": "zoomLogo.jpg",
+        "url": "#"
+      }
+    ],
+    "projects1": [
+      {
+        "title": "Midcity Housing ",
+        "category": "Build with Wordpress and Elementor",
+        "image": "midcity.PNG",
+        "url": "https://midcityhousing.com/"
+      },
+      {
+        "title": "Sadia and Ammar Associates",
+        "category": "Build with Wordpress and WpBakery",
+        "image": "sadia.png",
+        "url": "http://sadiaammar.com/"
+      },
+      {
+        "title": "The Springs Apartment Homes",
+        "category": "Build with Wordpress and Elementor",
+        "image": "SpringsApartment.PNG",
+        "url": "https://springsapartmenthomes.pk/"
+      }
+    ],
+    "projects2": [
+      {
+        "title": "Swiss Mall Gulberg",
+        "category": "Build with Wordpress and Elementor Pro",
+        "image": "smgulberg.PNG",
+        "url": "https://smgulberg.com/"
+      },
+      {
+        "title": "Sigma Builders Inc.",
+        "category": "Build with Wordpress and Elementor",
+        "image": "sigma.PNG",
+        "url": "https://www.sigmabuildersinc.com/"
+      },
+      {
+        "title": "Palm vista Housing)",
+        "category": "Build with Wordpress and Elementor",
+        "image": "palmvista.PNG",
+        "url": "https://www.palmvista.com.pk/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Ghayoor is absolutely excellent, his depth of knowledge really meant a lot to us... I would definitely recommend",
+        "user": "Zeeshan"
+      }
+    ]
+  }
+}
