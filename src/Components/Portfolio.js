@@ -5,9 +5,9 @@ const Portfolio = ({ data }) => {
     var projects = data.projects.map(function (projects) {
       var projectImage = "images/portfolio/" + projects.image;
       return (
-        <div key={projects.title} className="columns portfolio-item">
+        <div key={projects.title} className="project-items portfolio-item">
           <div className="item-wrap">
-            <a href={projects.url} title={projects.title}>
+            <a href={projects.url} title={projects.title} target="blank">
               <img alt={projects.title} src={projectImage} />
               <div className="overlay">
                 <div className="portfolio-item-meta">
@@ -29,7 +29,7 @@ const Portfolio = ({ data }) => {
       return (
         <div key={projects1.title} className="columns portfolio-item">
           <div className="item-wrap">
-            <a href={projects1.url} title={projects1.title}>
+            <a href={projects1.url} title={projects1.title} target="blank">
               <img alt={projects1.title} src={projectImage} />
               <div className="overlay">
                 <div className="portfolio-item-meta">
@@ -72,12 +72,9 @@ const Portfolio = ({ data }) => {
   return (
     <section id="portfolio">
       <div className="row">
-        <div className="twelve columns collapsed">
-          <h1>React.js And Node.js Projects</h1>
-          <div
-            id="portfolio-wrapper"
-            className="bgrid-quarters s-bgrid-thirds cf"
-          >
+        <div className=" ">
+          <h1>MERN Stack Projects</h1>
+          <div id="" className="project-wrapper">
             {projects}
           </div>
           <h1>Wordpress Projects</h1>

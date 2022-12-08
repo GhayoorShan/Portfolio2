@@ -789,7 +789,7 @@ input[type="checkbox"] {
 --------------------------------------------------------------- */
 .row {
   width: 96%;
-  max-width: 1020px;
+  max-width: 1200px;
   margin: 0 auto;
 }
 /* fixed width for IE8 */
@@ -820,7 +820,7 @@ input[type="checkbox"] {
 .column,
 .columns {
   position: relative;
-  padding: 0 20px;
+  padding: 20px;
   min-height: 1px;
   float: left;
 }
@@ -837,13 +837,13 @@ input[type="checkbox"] {
 .columns.collapsed {
   padding: 0;
 }
-
+/* 
 [class*="column"] + [class*="column"]:last-child {
   /* float: right; */
 }
-[class*="column"] + [class*="column"].end {
+/* [class*="column"] + [class*="column"].end {
   float: right;
-}
+} */ */
 
 /* column widths */
 .row .one {
@@ -1001,9 +1001,9 @@ input[type="checkbox"] {
   width: 50%;
 }
 
-[class*="bgrid"] [class*="column"] + [class*="column"]:last-child {
+/* [class*="bgrid"] [class*="column"] + [class*="column"]:last-child {
   float: left;
-}
+} */
 
 /* Left clearing for block grid columns - columns that changes width in
 different screen sizes. Allows columns with different heights to align
@@ -1174,4 +1174,14 @@ properly.
   margin-left: auto !important;
   margin-right: auto !important;
   text-align: center !important;
+}
+
+
+.project-wrapper{
+  display: flex;
+  gap: 10px;
+}
+
+.project-items {
+  
 }

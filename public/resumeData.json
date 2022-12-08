@@ -65,43 +65,43 @@
     "skills": [
       {
         "name": "Frontend / Design",
-        "level": "75%"
+        "level": "80%"
       },
       {
         "name": "Backend",
-        "level": "60%"
+        "level": "70%"
       },
       {
         "name": "Programming",
-        "level": "65%"
+        "level": "80%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "SportsWear Landing Page (React JS)",
-        "category": "",
-        "image": "sportswear.png",
-        "url": "https://sports-wear-32d63.web.app/"
+        "title": "RR Store - Coupon system of a Blockchain based survey application Real Research",
+        "category": "Real Research is an innovative, authentic, and reliable platform that offers its services to a large clientele worldwide. With over 3 million users from over 165 countries, the platform provides a space for data collection via fast and trustworthy surveys from real qualified respondents around the world. Sponsors can promote and advertise products, brands, businesses, events, Youtube videos, and more on the Real Research platform. They can also conduct free surveys using the private survey feature",
+        "image": "rr-store.jpg",
+        "url": "https://store.realresearcher.com/"
       },
       {
-        "title": "Slack Clone (React JS)",
-        "category": "",
-        "image": "slackClone.png",
-        "url": "https://slack-clone-12130.web.app/"
+        "title": "Trade ABBC Coin",
+        "category": "Crypto trading portal",
+        "image": "trade-abbc.jpg",
+        "url": "https://trade.abbccoin.com/"
       },
       {
-        "title": "Candy Crush clone (React JS)",
-        "category": "",
-        "image": "candyCrush.jpg",
-        "url": "https://candy-crush-27b6b.web.app/"
+        "title": "Trade Gera Coin",
+        "category": "Crypto trading portal",
+        "image": "trade-gera.jpg",
+        "url": "https://trade.abbccoin.com/"
       },
       {
-        "title": "Zoom Clone (Node JS)",
-        "category": "In Progress",
-        "image": "zoomLogo.jpg",
-        "url": "#"
+        "title": "Breshna.io - No code gaming platform",
+        "category": "BRESHNA EMPOWERS EVERYONE TO CREATE THEIR OWN VIDEO GAMES Make your own video game with no code and at lightning speed",
+        "image": "breshna-io.jpg",
+        "url": "https://breshna.io/"
       }
     ],
     "projects1": [
