@@ -1179,9 +1179,9 @@ properly.
 
 .project-wrapper{
   display: flex;
-  gap: 10px;
+
 }
 
 .project-items {
-  
+  padding: 20px;
 }

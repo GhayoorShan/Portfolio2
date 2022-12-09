@@ -9,8 +9,8 @@
     "email": "ghayoorshan7@gmail.com",
     "phone": "+971 509141213",
     "address": {
-      "street": "Al Bateen",
-      "city": "Abu Dhabi",
+      "street": "Business Bay",
+      "city": "Dubai",
       "state": "United Arab Emirates",
       "zip": ""
     },
@@ -78,7 +78,7 @@
     ]
   },
   "portfolio": {
-    "projects": [
+    "mernProject1": [
       {
         "title": "RR Store - Coupon system of a Blockchain based survey application Real Research",
         "category": "Real Research is an innovative, authentic, and reliable platform that offers its services to a large clientele worldwide. With over 3 million users from over 165 countries, the platform provides a space for data collection via fast and trustworthy surveys from real qualified respondents around the world. Sponsors can promote and advertise products, brands, businesses, events, Youtube videos, and more on the Real Research platform. They can also conduct free surveys using the private survey feature",
@@ -90,12 +90,14 @@
         "category": "Crypto trading portal",
         "image": "trade-abbc.jpg",
         "url": "https://trade.abbccoin.com/"
-      },
+      }
+    ],
+    "mernProject2": [
       {
         "title": "Trade Gera Coin",
         "category": "Crypto trading portal",
         "image": "trade-gera.jpg",
-        "url": "https://trade.abbccoin.com/"
+        "url": ""
       },
       {
         "title": "Breshna.io - No code gaming platform",
