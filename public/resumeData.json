@@ -1,13 +1,13 @@
 {
   "main": {
     "name": "Ghayoor Ahmad",
-    "occupation": "Web developer",
+    "occupation": "Software Engineer",
     "description": "",
     "image": "profilepic.jpg",
-    "bio": "Web Developer with three years of hands-on experience in identifying web-based user interactions along with designing & implementing highly-responsive user interface components. Proficient in JavaScript, React, Node, API integration, translating designs & wireframes into high-quality code, and writing application interface code via JavaScript and ReactJS workflows. Experienced in WordPress (Theme & Plugin customization ), Elementor, Divi, WPBakery, WooCommerce & Payment gateway integration.",
+    "bio": "Software Engineer with over 5 years of experience in crafting highly responsive user interfaces and innovative web solutions, specializing in React and Next.js. I excel in JavaScript and TypeScript, translating complex designs into seamless code. I have extensive experience with Node.js, frontend build tools like Webpack and Babel, and version control systems like Git. My strong understanding of responsive and mobile-first design, along with UI/UX principles, is complemented by proficiency in Redux, React Router, Jest, and React Testing Library. Agile-minded and adaptable, I leverage my backend knowledge and RESTful API expertise to drive impactful solutions in collaborative environments.",
     "contactmessage": "DISCUSS A PROJECT OR JUST WANT TO SAY HI? MY INBOX IS OPEN FOR ALL.!",
-    "email": "ghayoorshan7@gmail.com",
-    "phone": "+971 509141213",
+    "email": "iamghayoor7@gmail.com",
+    "phone": "+971 543179858",
     "address": {
       "street": "Business Bay",
       "city": "Dubai",
@@ -80,6 +80,20 @@
   "portfolio": {
     "mernProject1": [
       {
+        "title": "Zentu Genesis",
+        "category": "Zentu Genesis is a platform that facilitates the exchange of ABBC tokens for ZENT tokens at a predetermined ratio. Participate and claim now",
+        "image": "zentu.jpg",
+        "url": "https://genesis.zentu.com/"
+      },
+      {
+        "title": "AngryMonky NFT Marketplace",
+        "category": "Multi-chain NFT marketplace to explore, create, buy, sell and auction NFTs on Ethereum, Polygon and BNB Smart Chain",
+        "image": "angrymonky.jpg",
+        "url": "https://angrymonky.com/"
+      }
+    ],
+    "mernProject2": [
+      {
         "title": "RR Store - Coupon system of a Blockchain based survey application Real Research",
         "category": "Real Research is an innovative, authentic, and reliable platform that offers its services to a large clientele worldwide. With over 3 million users from over 165 countries, the platform provides a space for data collection via fast and trustworthy surveys from real qualified respondents around the world. Sponsors can promote and advertise products, brands, businesses, events, Youtube videos, and more on the Real Research platform. They can also conduct free surveys using the private survey feature",
         "image": "rr-store.jpg",
@@ -92,7 +106,7 @@
         "url": "https://trade.abbccoin.com/"
       }
     ],
-    "mernProject2": [
+    "mernProject3": [
       {
         "title": "Trade Gera Coin",
         "category": "Crypto trading portal",
